@@ -13,3 +13,10 @@ $colors: ("white": ($white, $black),
 "warning": ($warning, $warning-invert),
 "danger": ($danger, $danger-invert),
 );
+
+// mixins
+@mixin notCell {
+  @media (min-width: 750px) {
+    @content;
+  }
+}
