@@ -1,4 +1,5 @@
-# bulkBarn
+# Vue Template
+Vue Template with Base Components pre-installed, buefy, and a lot of goodies. Ready for Vue ui. Made from vue CLI.
 
 ## Project setup
 ```
